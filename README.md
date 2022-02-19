@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Soluton: [PROFILE-CARD-COMPONENT](https://your-live-site-url.com)
+- Live Soluton: [PROFILE-CARD-COMPONENT](https://amrewais.github.io/PROFILE-CARD-COMPONENT/)
 
 ## My process
 
